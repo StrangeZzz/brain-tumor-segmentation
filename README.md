@@ -50,7 +50,6 @@ Sensitivity: Measures the true positive rate.
 
 Specificity: Measures the true negative rate.
 
-The best-performing model, InputCascadeCNN, ranks second on the BRATS 2013 scoreboard and is over 30 times faster than the winning method from the 2013 challenge.
 
 Usage
 To use the models, follow these steps:
